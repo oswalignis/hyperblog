@@ -3,6 +3,7 @@ blog de git y github creado por oswalignis
 
 # Editor.md
 ### #*en este espacio estoy haciendo pruebas del editor.md*
+## y en hasta el momento todo a ido muy bien, creo xD
 
 ------------
 
