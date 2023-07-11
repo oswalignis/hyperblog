@@ -1,4 +1,4 @@
-# hyperblog :tw-1f308::tw-2665:
+# hyperblog :gift_heart:
 blog de git y github creado por oswalignis
 
 # Editor.md
