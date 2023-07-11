@@ -10,10 +10,7 @@ blog de git y github creado por oswalignis
 
 
 ```
-###Images
+[![morchis](lofiu "morchis")](https://drive.google.com/file/d/1SvNmCp2yG2SXR2WQqhkPMcK17aRQCRo6/view?usp=sharing "morchis")
 
-Image:
+>my lofiu.
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
-
-> Follow your heart.
