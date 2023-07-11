@@ -5,6 +5,7 @@ blog de git y github creado por oswalignis
 ### #*en este espacio estoy haciendo pruebas del editor.md*
 ## y en hasta el momento todo a ido muy bien, creo xD
 # incluye otra modificacion para seguir practicando
+## disponible ya
 
 ------------
 
